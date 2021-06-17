@@ -4,6 +4,8 @@ I Implemented Airmouse by analysis of hands and fingers movement using Computer 
 # Touch Less Mouse Controller
 Using Python and OpenCV with the real-time camera, created an AI-based system to control the mouse pointer. To control the mouse cursor, the location of the fingertip is transferred to RGB images.<br>
 
+In this Video, We can see the touch less cursor if we moves the hand in any direction so mouse also moves with hand and also if you want to click so you have to touch the index finger and middle finger.
+
 https://user-images.githubusercontent.com/66743388/122338174-f805c280-cf5c-11eb-94a6-517924dd592d.mp4
 
 
